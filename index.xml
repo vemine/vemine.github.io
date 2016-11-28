@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ve Mine</title>
+    <link>http://vemine.org/index.xml</link>
+    <description>Recent content on Ve Mine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Jul 2016 19:40:19 +0000</lastBuildDate>
+    <atom:link href="http://vemine.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact</title>
+      <link>http://vemine.org/contact/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/contact/</guid>
+      <description>&lt;div id=&#39;crmWebToEntityForm&#39;&gt;
+&lt;META HTTP-EQUIV =&#39;content-type&#39; CONTENT=&#39;text/html;charset=UTF-8&#39;&gt;
+
+&lt;form action=&#39;https://crm.zoho.com/crm/WebToLeadForm&#39; 
+    name=WebToLeads2015827000000104023 method=&#39;POST&#39; 
+    onSubmit=&#39;javascript:document.charset=&#34;UTF-8&#34;; return checkMandatory()&#39; 
+    accept-charset=&#39;UTF-8&#39;&gt;
+
+     &lt;!-- Do not remove this code. --&gt;
+    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xnQsjsdp&#39; value=&#39;670cbb754cef376380a8265570fb68c7df5f3e6204d431b7146d5bccf526d56b&#39;/&gt;
+    &lt;input type=&#39;hidden&#39; name=&#39;zc_gad&#39; id=&#39;zc_gad&#39; value=&#39;&#39;/&gt;
+    &lt;!-- &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xmIwtLD&#39; value=&#39;d34dc902754bbad7bfd1b82d9ff6391147850e633327dc0168830469c459c195&#39;/&gt; --&gt;
+    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xmIwtLD&#39; value=&#39;d34dc902754bbad7bfd1b82d9ff639116ed04a606f9816fe2a3471b654886c1c&#39;/&gt;
+    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39;  name=&#39;actionType&#39; value=&#39;TGVhZHM=&#39;/&gt;
+
+    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;returnURL&#39; value=&#39;http&amp;#x3a;&amp;#x2f;&amp;#x2f;tigoctm.com&#39; /&gt; 
+     &lt;!-- Do not remove this code. --&gt;
+
+  &lt;div class=&#34;form-row&#34;&gt;
+    &lt;label for=&#34;firstname&#34;&gt;Name
+      &lt;span class=&#34;form-error&#34; id=&#34;error-name&#34;&gt;Please specify your name&lt;/span&gt;
+    &lt;/label&gt;
+    &lt;div class=&#34;form-half-row&#34; style=&#34;padding-right: 2%&#34;&gt;
+      &lt;input type=&#34;text&#34; maxlength=&#34;40&#34; name=&#34;First Name&#34; id=&#34;firstname&#34;
+          placeholder=&#34;First&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;form-half-row&#34;&gt;
+      &lt;input type=&#34;text&#34; maxlength=&#34;80&#34; name=&#34;Last Name&#34; id=&#34;lastname&#34;
+          placeholder=&#34;Last&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
+    &lt;input type=&#34;text&#34; maxlength=&#34;100&#34; name=&#34;Email&#34; id=&#34;email&#34;
+           placeholder=&#34;Email&#34;&gt;
+    &lt;span class=&#34;form-error&#34; id=&#34;error-email&#34;&gt;
+        Please specify your email so we can communicate with you
+    &lt;/span&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
+    &lt;label for=&#34;company&#34;&gt;Company &lt;span class=&#34;contact-info&#34;&gt;optional&lt;/span&gt;&lt;/label&gt;
+    &lt;input type=&#34;text&#34; maxlength=&#34;100&#34; name=&#34;Company&#34; id=&#34;company&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
+    &lt;label for=&#34;shipping&#34;&gt;Shipping &lt;span class=&#34;contact-info&#34;&gt;optional&lt;/span&gt;&lt;/label&gt;
+    &lt;div class=&#34;form-half-row&#34; style=&#34;padding-right: 2%&#34;&gt;
+         &lt;input type=&#34;text&#34; maxlength=&#34;80&#34; name=&#34;Country&#34; id=&#34;country&#34;
+            placeholder=&#34;Country&#34;&gt;
+     &lt;/div&gt;
+     &lt;div class=&#34;form-half-row&#34;&gt;
+      &lt;input type=&#34;text&#34; maxlength=&#34;40&#34; name=&#34;City&#34; id=&#34;city&#34;
+          placeholder=&#34;City&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
+    &lt;label for=&#34;message&#34;&gt;Message
+    &lt;span class=&#34;form-error&#34; id=&#34;error-message&#34;&gt;
+        We will need some message to know what you are after
+    &lt;/span&gt;
+    &lt;/label&gt;
+    &lt;textarea name=&#34;Description&#34; id=&#34;message&#34; cols=&#34;40&#34; rows=&#34;10&#34; maxlength=&#34;1000&#34;&gt;&lt;/textarea&gt;
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;form-align&#34;&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Request More Information&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;script&gt;
+    var fields = [&amp;lsquo;firstname&amp;rsquo;, &amp;lsquo;lastname&amp;rsquo;, &amp;lsquo;email&amp;rsquo;, &amp;lsquo;message&amp;rsquo;, &amp;lsquo;city&amp;rsquo;, &amp;lsquo;country&amp;rsquo;];
+    var basicEmail = /^[^ @]+@([^ @]+){2,}.([^ @]+){2,}$/;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;function checkMandatory() {
+  /* Hide any errors. */
+  var allErrors = document.getElementsByClassName(&#39;form-error&#39;);
+  for (var i = 0; i &amp;lt; allErrors.length; i++) {
+    allErrors[i].style.display = &#39;none&#39;;
+  }
+
+  /* Validate the form. */
+  var form = document.forms[&#39;WebToLeads2015827000000104023&#39;];
+  for (var i = 0; i &amp;lt; fields.length; i++) {
+    var fieldObj = form[fields[i]];
+    if (fieldObj) {
+      var failed = fieldObj.value.replace(/^\s+|\s+$/g, &#39;&#39;).length === 0;
+      if (!failed &amp;amp;&amp;amp; fields[i] === &#39;email&#39;) {
+        failed = !basicEmail.test(fieldObj.value);
+      }
+
+      if (failed) {
+        fieldObj.focus();
+        var name = fields[i];
+        if (name.endsWith(&#39;name&#39;)) {
+          name = &#39;name&#39;;
+        }
+        var err = document.getElementById(&#39;error-&#39; + name);
+        if (err) {
+          err.style.display = &#39;block&#39;;
+        }
+        return false;
+      }
+    }
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/script&gt;
+&lt;form&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Header</title>
+      <link>http://vemine.org/header/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/header/</guid>
+      <description>
+
+&lt;h1 id=&#34;what&#34;&gt;What&lt;/h1&gt;
+
+&lt;h3 id=&#34;distribute-usb-digital-currency-miners-to-venezuelan-people&#34;&gt;Distribute usb digital currency miners to Venezuelan people.&lt;/h3&gt;
+
+&lt;p&gt;Imagine 1 in every 1,000 Venezuelan people mining Bitcoin at home, supplimenting their income with free and unencumbered internet money. This can be achieved with less than the average cryptocurrency ICO raises in its first 24 hours.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;why&#34;&gt;Why&lt;/h1&gt;
+
+&lt;p&gt;The suffering and abuse of Venezuelan people is long and well documented. Hope and practical solutions offered by Bitcoin and other open concepts are not yet widely accessible.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;In more than a dozen interviews, members of the community—some of whom are miners, and others who simply use the currency—described how this technology has alleviated daily hardships, making it possible for them to live reasonably comfortable lives despite the disintegrating society. &lt;em&gt;Many bitcoin users live in constant fear of being discovered and agreed to speak with Reason only on the condition of anonymity.&lt;/em&gt;&amp;rdquo; - &lt;a href=&#34;http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of&#34; target=&#34;_blank&#34;&gt;The Secret Dangerous World of Venezuelan Bitcoin Mining, Reason&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Emphasis added on the last sentence to show how dangerous centralization is to the Venezuelan digital currency users. Cheap and easy to distribute USB miners can make any Venezuelan into a Bitcoin user, and the small rewards generated make a big difference in a country where &lt;a href=&#34;https://www.bloomberg.com/news/articles/2015-03-06/monthly-salary-of-20-shows-why-venezuelans-wait-in-food-lines&#34; target=&#34;_blank&#34;&gt;$20/mo is the average salary&lt;/a&gt;, $1 worth of mining rewards goes a long way.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;how&#34;&gt;How&lt;/h1&gt;
+
+&lt;h3 id=&#34;donate-funds-to-purchase-miners&#34;&gt;Donate funds to purchase miners.&lt;/h3&gt;
+
+&lt;h3 id=&#34;negotiate-bulk-purchase-from-manufacturer&#34;&gt;Negotiate bulk purchase from manufacturer.&lt;/h3&gt;
+
+&lt;h3 id=&#34;work-with-venezuelan-bitcoin-community-to-distribute-miners-widely-and-without-fraud&#34;&gt;Work with Venezuelan Bitcoin community to distribute miners widely and without fraud.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CTA1</title>
+      <link>http://vemine.org/cta1/</link>
+      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/cta1/</guid>
+      <description>&lt;div class=&#34;Information-info&#34;&gt;
+## For more information about this once in a lifetime opportunity, fill out the form below
+
+&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Fill out the form below for More Information&lt;/a&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CTA2</title>
+      <link>http://vemine.org/cta2/</link>
+      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/cta2/</guid>
+      <description>&lt;div class=&#34;Information-info&#34;&gt;
+## For more information about this once in a lifetime opportunity, fill out the form below
+
+&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Fill out the form below for More Information&lt;/a&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>http://vemine.org/</link>
+      <pubDate>Sun, 12 Jun 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>http://vemine.org/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vemine.org/donate/</guid>
+      <description>
+
+&lt;h1 id=&#34;donate-bitcoin&#34;&gt;Donate Bitcoin&lt;/h1&gt;
+
+&lt;p&gt;address&lt;/p&gt;
+
+&lt;h1 id=&#34;donate-dash&#34;&gt;Donate Dash&lt;/h1&gt;
+
+&lt;p&gt;address&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Helpers</title>
+      <link>http://vemine.org/helpers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vemine.org/helpers/</guid>
+      <description>
+
+&lt;h1 id=&#34;helpers&#34;&gt;Helpers&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=http://200social.com&gt;&lt;img src=&#34;http://vemine.org/img/200_social.png&#34; height=&#34;200px&#34;\&gt;&lt;/a&gt;
+&lt;a href=http://www.bitcoinvenezuela.org&gt;&lt;img src=&#34;http://vemine.org/img/fundacion_bitcoin_venezuela.png&#34; \&gt;&lt;/a&gt;
+&lt;a href=http://gitguild.com/&gt;&lt;img src=&#34;http://vemine.org/img/gitguild.png&#34; \&gt;&lt;/a&gt;
+&lt;a href=http://mobydev.com/&gt;&lt;img src=&#34;http://vemine.org/img/mobydev.png&#34; \&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
