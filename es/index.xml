@@ -131,18 +131,25 @@
 
 &lt;h1 id=&#34;quien&#34;&gt;Quien&lt;/h1&gt;
 
-&lt;h5 id=&#34;co-firmantes&#34;&gt;Co-firmantes&lt;/h5&gt;
+&lt;h3 id=&#34;co-firmantes-de-la-billetera&#34;&gt;Co-firmantes de la billetera&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://iramiller.com&#34; target=&#34;_blank&#34;&gt;Ira Miller&lt;/a&gt; - &lt;a href=&#34;http://gitguild.com&#34; target=&#34;_blank&#34;&gt;GitGuild&lt;/a&gt; Ambassador
-&lt;a href=&#34;http://randyhilarski.com&#34; target=&#34;_blank&#34;&gt;Randy Hilarski&lt;/a&gt; - &lt;a href=&#34;http://200social.com&#34; target=&#34;_blank&#34;&gt;200 Social&lt;/a&gt; Co-Founder
-&lt;a href=&#34;https://randybrito.com/&#34; target=&#34;_blank&#34;&gt;Randy Brito&lt;/a&gt; - &lt;a href=&#34;http://bitcoinvenezuela.com&#34; target=&#34;_blank&#34;&gt;Bitcoin Venezuela&lt;/a&gt; Founder
-&lt;a href=&#34;http://moneyandstate.com/&#34; target=&#34;_blank&#34;&gt;Erik Voorhees&lt;/a&gt; - &lt;a href=&#34;https://shapeshift.io/&#34; target=&#34;_blank&#34;&gt;ShapeShift&lt;/a&gt; Founder&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://iramiller.com&#34; target=&#34;_blank&#34;&gt;Ira Miller&lt;/a&gt; - &lt;a href=&#34;http://gitguild.com&#34; target=&#34;_blank&#34;&gt;GitGuild&lt;/a&gt; Ambassador&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://randyhilarski.com&#34; target=&#34;_blank&#34;&gt;Randy Hilarski&lt;/a&gt; - &lt;a href=&#34;http://200social.com&#34; target=&#34;_blank&#34;&gt;200 Social&lt;/a&gt; Co-Founder&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://randybrito.com/&#34; target=&#34;_blank&#34;&gt;Randy Brito&lt;/a&gt; - &lt;a href=&#34;http://bitcoinvenezuela.com&#34; target=&#34;_blank&#34;&gt;Bitcoin Venezuela&lt;/a&gt; Founder&lt;/li&gt;
 
-&lt;h5 id=&#34;logisticas&#34;&gt;Logisticas&lt;/h5&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://moneyandstate.com/&#34; target=&#34;_blank&#34;&gt;Erik Voorhees&lt;/a&gt; - &lt;a href=&#34;https://shapeshift.io/&#34; target=&#34;_blank&#34;&gt;ShapeShift&lt;/a&gt; Founder&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;logisticas&#34;&gt;Logisticas&lt;/h3&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=http://bitcoinvenezuela.com&gt;&lt;img src=&#34;http://vemine.org/img/btcven.png&#34; style=&#34;max-width:400px; display:inline&#34; \&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;sitio-web&#34;&gt;Sitio Web&lt;/h5&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;sitio-web&#34;&gt;Sitio Web&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=http://200social.com&gt;&lt;img src=&#34;http://vemine.org/img/200_social.png&#34; style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;
 &lt;a href=http://gitguild.com/&gt;&lt;img src=&#34;http://vemine.org/img/gitguild.png&#34;  style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;

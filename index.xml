@@ -131,9 +131,26 @@
 
 &lt;h1 id=&#34;who&#34;&gt;Who&lt;/h1&gt;
 
+&lt;h5 id=&#34;wallet-co-signers&#34;&gt;Wallet Co-signers&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://iramiller.com&#34; target=&#34;_blank&#34;&gt;Ira Miller&lt;/a&gt; - &lt;a href=&#34;http://gitguild.com&#34; target=&#34;_blank&#34;&gt;GitGuild&lt;/a&gt; Ambassador&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://randyhilarski.com&#34; target=&#34;_blank&#34;&gt;Randy Hilarski&lt;/a&gt; - &lt;a href=&#34;http://200social.com&#34; target=&#34;_blank&#34;&gt;200 Social&lt;/a&gt; Co-Founder&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://randybrito.com/&#34; target=&#34;_blank&#34;&gt;Randy Brito&lt;/a&gt; - &lt;a href=&#34;http://bitcoinvenezuela.com&#34; target=&#34;_blank&#34;&gt;Bitcoin Venezuela&lt;/a&gt; Founder&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://moneyandstate.com/&#34; target=&#34;_blank&#34;&gt;Erik Voorhees&lt;/a&gt; - &lt;a href=&#34;https://shapeshift.io/&#34; target=&#34;_blank&#34;&gt;ShapeShift&lt;/a&gt; Founder
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;a href=http://bitcoinvenezuela.com&gt;&lt;img src=&#34;http://vemine.org/img/btcven.png&#34; style=&#34;max-width:400px; display:inline&#34; \&gt;&lt;/a&gt;
 &lt;!--&lt;a href=http://bitcoinvenezuela.org&gt;&lt;img src=&#34;http://vemine.org/img/fundacion_bitcoin_venezuela.png&#34; style=&#34;display:inline&#34; \&gt;&lt;/a&gt;--&gt;
-&lt;a href=http://200social.com&gt;&lt;img src=&#34;http://vemine.org/img/200_social.png&#34; style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;website&#34;&gt;Website&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=http://200social.com&gt;&lt;img src=&#34;http://vemine.org/img/200_social.png&#34; style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;
 &lt;a href=http://gitguild.com/&gt;&lt;img src=&#34;http://vemine.org/img/gitguild.png&#34;  style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;
 &lt;a href=http://mobydev.com/&gt;&lt;img src=&#34;http://vemine.org/img/mobydev.png&#34;  style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
