@@ -6,36 +6,8 @@
     <description>Recent content on Ve Mine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Aug 2016 20:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Aug 2016 20:09:19 +0000</lastBuildDate>
     <atom:link href="http://vemine.org/es/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>CTA1</title>
-      <link>http://vemine.org/es/cta2/</link>
-      <pubDate>Sun, 07 Aug 2016 20:12:19 +0000</pubDate>
-      
-      <guid>http://vemine.org/es/cta2/</guid>
-      <description>&lt;div class=&#34;Information-info&#34;&gt;
-## For more information about this once in a lifetime opportunity, fill out the form below
-
-&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Llena el formulario a continuación para mayor información&lt;/a&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CTA1</title>
-      <link>http://vemine.org/es/cta1/</link>
-      <pubDate>Sun, 07 Aug 2016 20:11:19 +0000</pubDate>
-      
-      <guid>http://vemine.org/es/cta1/</guid>
-      <description>&lt;div class=&#34;Information-info&#34;&gt;
-## For more information about this once in a lifetime opportunity, fill out the form below
-
-&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Llena el formulario a continuación para mayor información&lt;/a&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>Contacto</title>
@@ -43,133 +15,106 @@
       <pubDate>Sun, 07 Aug 2016 20:09:19 +0000</pubDate>
       
       <guid>http://vemine.org/es/contact/</guid>
-      <description>&lt;div id=&#39;crmWebToEntityForm&#39;&gt;
-&lt;META HTTP-EQUIV =&#39;content-type&#39; CONTENT=&#39;text/html;charset=UTF-8&#39;&gt;
+      <description>&lt;p&gt;Coreo Electronico&lt;/p&gt;
 
-&lt;form action=&#39;https://crm.zoho.com/crm/WebToLeadForm&#39; 
-    name=WebToLeads2015827000000104023 method=&#39;POST&#39; 
-    onSubmit=&#39;javascript:document.charset=&#34;UTF-8&#34;; return checkMandatory()&#39; 
-    accept-charset=&#39;UTF-8&#39;&gt;
+&lt;p&gt;&lt;a href=&#34;https//vemine@protonmail.com&#34;&gt;vemine@protonmail.com&lt;/a&gt;&lt;/p&gt;
 
-     &lt;!-- Do not remove this code. --&gt;
-    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xnQsjsdp&#39; value=&#39;670cbb754cef376380a8265570fb68c7df5f3e6204d431b7146d5bccf526d56b&#39;/&gt;
-    &lt;input type=&#39;hidden&#39; name=&#39;zc_gad&#39; id=&#39;zc_gad&#39; value=&#39;&#39;/&gt;
-    &lt;!-- &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xmIwtLD&#39; value=&#39;d34dc902754bbad7bfd1b82d9ff6391147850e633327dc0168830469c459c195&#39;/&gt; --&gt;
-    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xmIwtLD&#39; value=&#39;d34dc902754bbad7bfd1b82d9ff639116ed04a606f9816fe2a3471b654886c1c&#39;/&gt;
-    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39;  name=&#39;actionType&#39; value=&#39;TGVhZHM=&#39;/&gt;
+&lt;hr /&gt;
 
-    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;returnURL&#39; value=&#39;http&amp;#x3a;&amp;#x2f;&amp;#x2f;tigoctm.com&#39; /&gt; 
-     &lt;!-- Do not remove this code. --&gt;
+&lt;p&gt;Sigue&lt;/p&gt;
 
-  &lt;div class=&#34;form-row&#34;&gt;
-    &lt;label for=&#34;firstname&#34;&gt;Nombre
-      &lt;span class=&#34;form-error&#34; id=&#34;error-name&#34;&gt;Favor de ingresar su nombre&lt;/span&gt;
-    &lt;/label&gt;
-    &lt;div class=&#34;form-half-row&#34; style=&#34;padding-right: 2%&#34;&gt;
-      &lt;input type=&#34;text&#34; maxlength=&#34;40&#34; name=&#34;First Name&#34; id=&#34;firstname&#34;
-          placeholder=&#34;Nombre&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;form-half-row&#34;&gt;
-      &lt;input type=&#34;text&#34; maxlength=&#34;80&#34; name=&#34;Last Name&#34; id=&#34;lastname&#34;
-          placeholder=&#34;Apellido&#34;&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
-    &lt;input type=&#34;text&#34; maxlength=&#34;100&#34; name=&#34;Email&#34; id=&#34;email&#34;
-           placeholder=&#34;Email&#34;&gt;
-    &lt;span class=&#34;form-error&#34; id=&#34;error-email&#34;&gt;
-        Por favor especifique su email para saber como podemos comunicarnos con usted
-    &lt;/span&gt;
-  &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
-    &lt;label for=&#34;company&#34;&gt;Empresa &lt;span class=&#34;contact-info&#34;&gt;optional&lt;/span&gt;&lt;/label&gt;
-    &lt;input type=&#34;text&#34; maxlength=&#34;100&#34; name=&#34;Company&#34; id=&#34;company&#34;&gt;
-  &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
-    &lt;label for=&#34;shipping&#34;&gt;Envío &lt;span class=&#34;contact-info&#34;&gt;opcional&lt;/span&gt;&lt;/label&gt;
-    &lt;div class=&#34;form-half-row&#34; style=&#34;padding-right: 2%&#34;&gt;
-         &lt;input type=&#34;text&#34; maxlength=&#34;80&#34; name=&#34;Country&#34; id=&#34;country&#34;
-            placeholder=&#34;País&#34;&gt;
-     &lt;/div&gt;
-     &lt;div class=&#34;form-half-row&#34;&gt;
-      &lt;input type=&#34;text&#34; maxlength=&#34;40&#34; name=&#34;City&#34; id=&#34;city&#34;
-          placeholder=&#34;Ciudad&#34;&gt;
-  &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
-    &lt;label for=&#34;message&#34;&gt;Mensaje
-    &lt;span class=&#34;form-error&#34; id=&#34;error-message&#34;&gt;
-        Necesitaremos cierta información necesaria para poder ayudarlo mejor.&lt;br /&gt;
-    &lt;/span&gt;
-    &lt;/label&gt;
-    &lt;textarea name=&#34;Description&#34; id=&#34;message&#34; cols=&#34;40&#34; rows=&#34;10&#34; maxlength=&#34;1000&#34;&gt;&lt;/textarea&gt;
-   &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-align&#34;&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Solicite mayor información&#34;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;script&gt;
-    var fields = [&amp;lsquo;firstname&amp;rsquo;, &amp;lsquo;lastname&amp;rsquo;, &amp;lsquo;email&amp;rsquo;, &amp;lsquo;message&amp;rsquo;, &amp;lsquo;city&amp;rsquo;, &amp;lsquo;country&amp;rsquo;];
-    var basicEmail = /^[^ @]+@([^ @]+){2,}.([^ @]+){2,}$/;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;function checkMandatory() {
-  /* Hide any errors. */
-  var allErrors = document.getElementsByClassName(&#39;form-error&#39;);
-  for (var i = 0; i &amp;lt; allErrors.length; i++) {
-    allErrors[i].style.display = &#39;none&#39;;
-  }
-
-  /* Validate the form. */
-  var form = document.forms[&#39;WebToLeads2015827000000104023&#39;];
-  for (var i = 0; i &amp;lt; fields.length; i++) {
-    var fieldObj = form[fields[i]];
-    if (fieldObj) {
-      var failed = fieldObj.value.replace(/^\s+|\s+$/g, &#39;&#39;).length === 0;
-      if (!failed &amp;amp;&amp;amp; fields[i] === &#39;email&#39;) {
-        failed = !basicEmail.test(fieldObj.value);
-      }
-
-      if (failed) {
-        fieldObj.focus();
-        var name = fields[i];
-        if (name.endsWith(&#39;name&#39;)) {
-          name = &#39;name&#39;;
-        }
-        var err = document.getElementById(&#39;error-&#39; + name);
-        if (err) {
-          err.style.display = &#39;block&#39;;
-        }
-        return false;
-      }
-    }
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/script&gt;
-&lt;form&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/vemineorg&#34;&gt;&lt;img src=&#34;http://vemine.org/img/twitter.svg&#34; height=&#34;30px&#34; style=&#34;display:inline&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/Vemineorg-1194135313974891/?fref=ts&amp;ref=br_tf&#34;&gt;&lt;img src=&#34;http://vemine.org/img/facebook.png&#34; height=&#34;30px&#34; style=&#34;display:inline&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Header</title>
-      <link>http://vemine.org/es/header/</link>
-      <pubDate>Fri, 08 Jul 2016 20:27:19 +0000</pubDate>
+      <title>Como</title>
+      <link>http://vemine.org/es/how/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
       
-      <guid>http://vemine.org/es/header/</guid>
+      <guid>http://vemine.org/es/how/</guid>
       <description>
 
-&lt;h1 id=&#34;entra-a-la-base-de-la-explosión-de-bitcoin-dash-y-los-mercados-de-criptodivisas-sin-necesidad-de-conocimiento-técnico-o-experiencia&#34;&gt;Entra a la base de la explosión de Bitcoin, Dash y los mercados de criptodivisas sin necesidad de conocimiento técnico o experiencia.&lt;/h1&gt;
+&lt;h1 id=&#34;cómo&#34;&gt;Cómo&lt;/h1&gt;
 
-&lt;hr /&gt;
+&lt;h3 id=&#34;donar-donate-fondos-para-comprar-mineros&#34;&gt;&lt;a href=&#34;#donate&#34;&gt;Donar&lt;/a&gt; fondos para comprar mineros.&lt;/h3&gt;
 
-&lt;h4 id=&#34;recupera-tu-inversión-en-3-a-9-meses-y-detona-tu-retorno-de-inversión-inmediatamente-los-cripto-cajeros-automáticos-ctm-estan-generando-entre-20-000-300-000-dls-en-transaccion-al-mes-pero-su-mayor-ganancia-aun-esta-por-llegar-en-las-mejores-locaciones&#34;&gt;Recupera tu inversión en 3 a 9 meses y detona tu retorno de inversión inmediatamente. Los Cripto-Cajeros Automáticos (CTM) estan generando entre $20,000 - $300,000 dls en transaccion al mes. Pero su mayor ganancia aun esta por llegar en las mejores locaciones.&lt;/h4&gt;
+&lt;h3 id=&#34;negociar-la-compra-a-granel-del-fabricantes&#34;&gt;Negociar la compra a granel del fabricantes.&lt;/h3&gt;
+
+&lt;h3 id=&#34;trabajar-con-la-comunidad-venezolana-de-bitcoin-https-bitcoinvenezuela-com-para-distribuir-mineros-ampliamente-y-sin-fraude&#34;&gt;Trabajar con la &lt;a href=&#34;https://bitcoinvenezuela.com&#34; target=&#34;_blank&#34;&gt;comunidad venezolana de Bitcoin&lt;/a&gt; para distribuir mineros ampliamente y sin fraude.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Por Que</title>
+      <link>http://vemine.org/es/why/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/es/why/</guid>
+      <description>
+
+&lt;h1 id=&#34;por-qué&#34;&gt;Por qué&lt;/h1&gt;
+
+&lt;p&gt;Dado que esta organización fue inspirada por un &lt;a href=&#34;http://reason.com&#34; target=&#34;_blank&#34;&gt;Reason Magazine&lt;/a&gt; &lt;a href=&#34;http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of&#34; target=&#34;_blank&#34;&gt;articulo&lt;/a&gt;, Vamos a contar las razones usando cotizaciones. (Artículo en inglés, cotizaciones traducidas)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://vemine.org/img/reason_article.png&#34; style=&#34;max-width:800px; padding: 2em; display:inline;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;En más de una docena de entrevistas, miembros de la comunidad -algunos de los cuales son mineros y otros que simplemente usan la moneda- describieron cómo esta tecnología ha aliviado las dificultades diarias, lo que les permite vivir vidas razonablemente cómodas a pesar de la desintegración de la sociedad.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;El sufrimiento y el abuso del pueblo venezolano es largo y bien documentado. La esperanza y las soluciones prácticas ofrecidas por Bitcoin y otros conceptos abiertos aún no son ampliamente accesibles.&lt;/p&gt;
+
+&lt;p&gt;Los mineros plug and play pueden convertir a cualquier venezolano con electricidad e internet en un usuario de Bitcoin, y proporcionarles un modesto incentivo financiero para aprender.
+&lt;br&gt;&lt;br&gt;
+&lt;a href=&#34;http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Muchos usuarios de bitcoin viven en constante temor de ser descubiertos y aceptan hablar con Reason sólo bajo la condición de anonimato.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La centralización es peligrosa para los usuarios de divisas digitales en todo el mundo, y especialmente en Venezuela.&lt;/p&gt;
+
+&lt;p&gt;Mediante el uso de mineros USB que caben en un bolsillo o un sobre, miles o decenas de miles se pueden distribuir a una población diversa y única.
+&lt;br&gt;&lt;br&gt;
+&lt;a href=&#34;http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Muchos venezolanos subsisten con un estipendio mensual del gobierno equivalente a unos US$9.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Después de tener en cuenta las tarifas de electricidad más bajas de Venezuela, las recompensas generadas por una minera USB podrían llegar a ser de $ 0.40 por mes por valor de BTC. Esto sería un notable aumento del ingreso del 4,4% para las personas que viven en programas sociales.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Que</title>
+      <link>http://vemine.org/es/what/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/es/what/</guid>
+      <description>
+
+&lt;h1 id=&#34;qué&#34;&gt;Qué&lt;/h1&gt;
+
+&lt;h3 id=&#34;distribuya-los-mineros-digitales-usb-a-la-gente-venezolana&#34;&gt;Distribuya los mineros digitales usb a la gente venezolana.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://vemine.org/img/usbminer.jpg&#34; style=&#34;display:inline&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Imagina que 1 de cada 1.000 personas venezolanas extrae Bitcoin en casa, suplimentando sus ingresos con dinero gratis y libre de internet. Esto se puede lograr con menos de la media criptocoria ICO gana en sus primeras 24 horas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Donar</title>
+      <link>http://vemine.org/es/donate/</link>
+      <pubDate>Fri, 08 Jul 2016 20:27:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/es/donate/</guid>
+      <description>
+
+&lt;h1 id=&#34;donar-bitcoin&#34;&gt;Donar Bitcoin&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://vemine.org/img/btcqr.png&#34; style=&#34;display:inline&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;32ZWj2hdFh5Nms7KMkWcFhtiTvhJedLhEA&lt;/p&gt;
+
+&lt;h1 id=&#34;donar-dash&#34;&gt;Donar Dash&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://vemine.org/img/dashqr.png&#34; style=&#34;display:inline&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;XbF55CsG7uqEoeh5zQD6hvzcQirM9QZPf1&lt;/p&gt;
 </description>
     </item>
     
@@ -183,20 +128,20 @@
     </item>
     
     <item>
-      <title>Donate</title>
-      <link>http://vemine.org/es/donate/</link>
+      <title>Helpers</title>
+      <link>http://vemine.org/es/helpers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vemine.org/es/donate/</guid>
+      <guid>http://vemine.org/es/helpers/</guid>
       <description>
 
-&lt;h1 id=&#34;donate-bitcoin&#34;&gt;Donate Bitcoin&lt;/h1&gt;
+&lt;h1 id=&#34;ayundantes&#34;&gt;Ayundantes&lt;/h1&gt;
 
-&lt;p&gt;address&lt;/p&gt;
-
-&lt;h1 id=&#34;donate-dash&#34;&gt;Donate Dash&lt;/h1&gt;
-
-&lt;p&gt;address&lt;/p&gt;
+&lt;p&gt;&lt;a href=http://bitcoinvenezuela.com&gt;&lt;img src=&#34;http://vemine.org/img/btcven.png&#34; style=&#34;max-width:400px; display:inline&#34; \&gt;&lt;/a&gt;
+&lt;!--&lt;a href=http://bitcoinvenezuela.org&gt;&lt;img src=&#34;http://vemine.org/img/fundacion_bitcoin_venezuela.png&#34; style=&#34;display:inline&#34; \&gt;&lt;/a&gt;--&gt;
+&lt;a href=http://200social.com&gt;&lt;img src=&#34;http://vemine.org/img/200_social.png&#34; style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;
+&lt;a href=http://gitguild.com/&gt;&lt;img src=&#34;http://vemine.org/img/gitguild.png&#34;  style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;
+&lt;a href=http://mobydev.com/&gt;&lt;img src=&#34;http://vemine.org/img/mobydev.png&#34;  style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

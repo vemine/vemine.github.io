@@ -15,27 +15,43 @@
       <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
       
       <guid>http://vemine.org/contact/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;Email&lt;/p&gt;
+      <description>&lt;p&gt;Email&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https//vemine@protonmail.com&#34;&gt;vemine@protonmail.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Follow Us&lt;/p&gt;
+&lt;p&gt;Follow&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/vemineorg&#34;&gt;&lt;img src=&#34;http://vemine.org/img/twitter.svg&#34; height=&#34;30px&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.facebook.com/Vemineorg-1194135313974891/?fref=ts&amp;ref=br_tf&#34;&gt;&lt;img src=&#34;http://vemine.org/img/facebook.png&#34; height=&#34;30px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/vemineorg&#34;&gt;&lt;img src=&#34;http://vemine.org/img/twitter.svg&#34; height=&#34;30px&#34; style=&#34;display:inline&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/Vemineorg-1194135313974891/?fref=ts&amp;ref=br_tf&#34;&gt;&lt;img src=&#34;http://vemine.org/img/facebook.png&#34; height=&#34;30px&#34; style=&#34;display:inline&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Header</title>
-      <link>http://vemine.org/header/</link>
+      <title>How</title>
+      <link>http://vemine.org/how/</link>
       <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
       
-      <guid>http://vemine.org/header/</guid>
+      <guid>http://vemine.org/how/</guid>
+      <description>
+
+&lt;h1 id=&#34;how&#34;&gt;How&lt;/h1&gt;
+
+&lt;h3 id=&#34;donate-donate-funds-to-purchase-miners&#34;&gt;&lt;a href=&#34;#donate&#34;&gt;Donate&lt;/a&gt; funds to purchase miners.&lt;/h3&gt;
+
+&lt;h3 id=&#34;negotiate-bulk-purchase-from-manufacturer-s&#34;&gt;Negotiate bulk purchase from manufacturer(s).&lt;/h3&gt;
+
+&lt;h3 id=&#34;work-with-venezuelan-bitcoin-community-https-bitcoinvenezuela-com-to-distribute-miners-widely-and-without-fraud&#34;&gt;Work with Venezuelan &lt;a href=&#34;https://bitcoinvenezuela.com&#34; target=&#34;_blank&#34;&gt;Bitcoin community&lt;/a&gt; to distribute miners widely and without fraud.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What</title>
+      <link>http://vemine.org/what/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/what/</guid>
       <description>
 
 &lt;h1 id=&#34;what&#34;&gt;What&lt;/h1&gt;
@@ -45,14 +61,24 @@
 &lt;p&gt;&lt;img src=&#34;http://vemine.org/img/usbminer.jpg&#34; style=&#34;display:inline&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Imagine 1 in every 1,000 Venezuelan people mining Bitcoin at home, supplimenting their income with free and unencumbered internet money. This can be achieved with less than the average cryptocurrency ICO raises in its first 24 hours.&lt;/p&gt;
-
-&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why</title>
+      <link>http://vemine.org/why/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://vemine.org/why/</guid>
+      <description>
 
 &lt;h1 id=&#34;why&#34;&gt;Why&lt;/h1&gt;
 
-&lt;p&gt;Since this organization was inspired by a &lt;a href=&#34;http://reason.com&#34; target=&#34;_blank&#34;&gt;Reason Magazine&lt;/a&gt; &lt;a href=&#34;(http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of)&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;, let&amp;rsquo;s count the reasons using quotes.
-&lt;br&gt;&lt;br&gt;
-&lt;a href=&#34;http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;In more than a dozen interviews, members of the community—some of whom are miners, and others who simply use the currency—described how this technology has alleviated daily hardships, making it possible for them to live reasonably comfortable lives despite the disintegrating society.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Since this organization was inspired by a &lt;a href=&#34;http://reason.com&#34; target=&#34;_blank&#34;&gt;Reason Magazine&lt;/a&gt; &lt;a href=&#34;(http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of)&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;, let&amp;rsquo;s count the reasons using quotes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://vemine.org/img/reason_article.png&#34; style=&#34;max-width:800px; padding: 2em; display:inline;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;In more than a dozen interviews, members of the community—some of whom are miners, and others who simply use the currency—described how this technology has alleviated daily hardships, making it possible for them to live reasonably comfortable lives despite the disintegrating society.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The suffering and abuse of Venezuelan people is long and well documented. Hope and practical solutions offered by Bitcoin and other open concepts are not yet widely accessible.&lt;/p&gt;
 
@@ -67,44 +93,6 @@
 &lt;a href=&#34;http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Many Venezuelans subsist on a monthly government stipend equivalent to about $9.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;After taking into account Venezuela&amp;rsquo;s lowest in the world electricity rates, the rewards generated by a USB miner could be up to $0.40 per month worth of BTC. This would be a noticable 4.4% income boost for people living on social programs.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;how&#34;&gt;How&lt;/h1&gt;
-
-&lt;h3 id=&#34;donate-funds-to-purchase-miners&#34;&gt;Donate funds to purchase miners.&lt;/h3&gt;
-
-&lt;h3 id=&#34;negotiate-bulk-purchase-from-manufacturer-s&#34;&gt;Negotiate bulk purchase from manufacturer(s).&lt;/h3&gt;
-
-&lt;h3 id=&#34;work-with-venezuelan-bitcoin-community-https-bitcoinvenezuela-com-to-distribute-miners-widely-and-without-fraud&#34;&gt;Work with Venezuelan &lt;a href=&#34;https://bitcoinvenezuela.com&#34; target=&#34;_blank&#34;&gt;Bitcoin community&lt;/a&gt; to distribute miners widely and without fraud.&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CTA1</title>
-      <link>http://vemine.org/cta1/</link>
-      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
-      
-      <guid>http://vemine.org/cta1/</guid>
-      <description>&lt;div class=&#34;Information-info&#34;&gt;
-## For more information about this once in a lifetime opportunity, fill out the form below
-
-&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Fill out the form below for More Information&lt;/a&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CTA2</title>
-      <link>http://vemine.org/cta2/</link>
-      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
-      
-      <guid>http://vemine.org/cta2/</guid>
-      <description>&lt;div class=&#34;Information-info&#34;&gt;
-## For more information about this once in a lifetime opportunity, fill out the form below
-
-&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Fill out the form below for More Information&lt;/a&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -127,11 +115,15 @@
 
 &lt;h1 id=&#34;donate-bitcoin&#34;&gt;Donate Bitcoin&lt;/h1&gt;
 
-&lt;p&gt;address&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://vemine.org/img/btcqr.png&#34; style=&#34;display:inline&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;32ZWj2hdFh5Nms7KMkWcFhtiTvhJedLhEA&lt;/p&gt;
 
 &lt;h1 id=&#34;donate-dash&#34;&gt;Donate Dash&lt;/h1&gt;
 
-&lt;p&gt;address&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://vemine.org/img/dashqr.png&#34; style=&#34;display:inline&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;XbF55CsG7uqEoeh5zQD6hvzcQirM9QZPf1&lt;/p&gt;
 </description>
     </item>
     
@@ -145,11 +137,11 @@
 
 &lt;h1 id=&#34;helpers&#34;&gt;Helpers&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=http://bitcoinvenezuela.com&gt;&lt;img src=&#34;http://vemine.org/img/btcven.png&#34; style=&#34;max-width:500px; display:inline&#34; \&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=http://bitcoinvenezuela.com&gt;&lt;img src=&#34;http://vemine.org/img/btcven.png&#34; style=&#34;max-width:400px; display:inline&#34; \&gt;&lt;/a&gt;
 &lt;!--&lt;a href=http://bitcoinvenezuela.org&gt;&lt;img src=&#34;http://vemine.org/img/fundacion_bitcoin_venezuela.png&#34; style=&#34;display:inline&#34; \&gt;&lt;/a&gt;--&gt;
-&lt;a href=http://200social.com&gt;&lt;img src=&#34;http://vemine.org/img/200_social.png&#34; height=&#34;200px&#34; style=&#34;display:inline&#34; \&gt;&lt;/a&gt;
-&lt;a href=http://gitguild.com/&gt;&lt;img src=&#34;http://vemine.org/img/gitguild.png&#34;  style=&#34;display:inline&#34; \&gt;&lt;/a&gt;
-&lt;a href=http://mobydev.com/&gt;&lt;img src=&#34;http://vemine.org/img/mobydev.png&#34;  style=&#34;display:inline&#34; \&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=http://200social.com&gt;&lt;img src=&#34;http://vemine.org/img/200_social.png&#34; style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;
+&lt;a href=http://gitguild.com/&gt;&lt;img src=&#34;http://vemine.org/img/gitguild.png&#34;  style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;
+&lt;a href=http://mobydev.com/&gt;&lt;img src=&#34;http://vemine.org/img/mobydev.png&#34;  style=&#34;display:inline; max-height:150px&#34; \&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
