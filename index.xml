@@ -15,117 +15,18 @@
       <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
       
       <guid>http://vemine.org/contact/</guid>
-      <description>&lt;div id=&#39;crmWebToEntityForm&#39;&gt;
-&lt;META HTTP-EQUIV =&#39;content-type&#39; CONTENT=&#39;text/html;charset=UTF-8&#39;&gt;
+      <description>&lt;hr /&gt;
 
-&lt;form action=&#39;https://crm.zoho.com/crm/WebToLeadForm&#39; 
-    name=WebToLeads2015827000000104023 method=&#39;POST&#39; 
-    onSubmit=&#39;javascript:document.charset=&#34;UTF-8&#34;; return checkMandatory()&#39; 
-    accept-charset=&#39;UTF-8&#39;&gt;
+&lt;p&gt;Email&lt;/p&gt;
 
-     &lt;!-- Do not remove this code. --&gt;
-    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xnQsjsdp&#39; value=&#39;670cbb754cef376380a8265570fb68c7df5f3e6204d431b7146d5bccf526d56b&#39;/&gt;
-    &lt;input type=&#39;hidden&#39; name=&#39;zc_gad&#39; id=&#39;zc_gad&#39; value=&#39;&#39;/&gt;
-    &lt;!-- &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xmIwtLD&#39; value=&#39;d34dc902754bbad7bfd1b82d9ff6391147850e633327dc0168830469c459c195&#39;/&gt; --&gt;
-    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;xmIwtLD&#39; value=&#39;d34dc902754bbad7bfd1b82d9ff639116ed04a606f9816fe2a3471b654886c1c&#39;/&gt;
-    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39;  name=&#39;actionType&#39; value=&#39;TGVhZHM=&#39;/&gt;
+&lt;p&gt;&lt;a href=&#34;https//vemine@protonmail.com&#34;&gt;vemine@protonmail.com&lt;/a&gt;&lt;/p&gt;
 
-    &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;returnURL&#39; value=&#39;http&amp;#x3a;&amp;#x2f;&amp;#x2f;tigoctm.com&#39; /&gt; 
-     &lt;!-- Do not remove this code. --&gt;
+&lt;hr /&gt;
 
-  &lt;div class=&#34;form-row&#34;&gt;
-    &lt;label for=&#34;firstname&#34;&gt;Name
-      &lt;span class=&#34;form-error&#34; id=&#34;error-name&#34;&gt;Please specify your name&lt;/span&gt;
-    &lt;/label&gt;
-    &lt;div class=&#34;form-half-row&#34; style=&#34;padding-right: 2%&#34;&gt;
-      &lt;input type=&#34;text&#34; maxlength=&#34;40&#34; name=&#34;First Name&#34; id=&#34;firstname&#34;
-          placeholder=&#34;First&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;form-half-row&#34;&gt;
-      &lt;input type=&#34;text&#34; maxlength=&#34;80&#34; name=&#34;Last Name&#34; id=&#34;lastname&#34;
-          placeholder=&#34;Last&#34;&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
+&lt;p&gt;Follow Us&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
-    &lt;input type=&#34;text&#34; maxlength=&#34;100&#34; name=&#34;Email&#34; id=&#34;email&#34;
-           placeholder=&#34;Email&#34;&gt;
-    &lt;span class=&#34;form-error&#34; id=&#34;error-email&#34;&gt;
-        Please specify your email so we can communicate with you
-    &lt;/span&gt;
-  &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
-    &lt;label for=&#34;company&#34;&gt;Company &lt;span class=&#34;contact-info&#34;&gt;optional&lt;/span&gt;&lt;/label&gt;
-    &lt;input type=&#34;text&#34; maxlength=&#34;100&#34; name=&#34;Company&#34; id=&#34;company&#34;&gt;
-  &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
-    &lt;label for=&#34;shipping&#34;&gt;Shipping &lt;span class=&#34;contact-info&#34;&gt;optional&lt;/span&gt;&lt;/label&gt;
-    &lt;div class=&#34;form-half-row&#34; style=&#34;padding-right: 2%&#34;&gt;
-         &lt;input type=&#34;text&#34; maxlength=&#34;80&#34; name=&#34;Country&#34; id=&#34;country&#34;
-            placeholder=&#34;Country&#34;&gt;
-     &lt;/div&gt;
-     &lt;div class=&#34;form-half-row&#34;&gt;
-      &lt;input type=&#34;text&#34; maxlength=&#34;40&#34; name=&#34;City&#34; id=&#34;city&#34;
-          placeholder=&#34;City&#34;&gt;
-  &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
-    &lt;label for=&#34;message&#34;&gt;Message
-    &lt;span class=&#34;form-error&#34; id=&#34;error-message&#34;&gt;
-        We will need some message to know what you are after
-    &lt;/span&gt;
-    &lt;/label&gt;
-    &lt;textarea name=&#34;Description&#34; id=&#34;message&#34; cols=&#34;40&#34; rows=&#34;10&#34; maxlength=&#34;1000&#34;&gt;&lt;/textarea&gt;
-   &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-align&#34;&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Request More Information&#34;&gt;
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;script&gt;
-    var fields = [&amp;lsquo;firstname&amp;rsquo;, &amp;lsquo;lastname&amp;rsquo;, &amp;lsquo;email&amp;rsquo;, &amp;lsquo;message&amp;rsquo;, &amp;lsquo;city&amp;rsquo;, &amp;lsquo;country&amp;rsquo;];
-    var basicEmail = /^[^ @]+@([^ @]+){2,}.([^ @]+){2,}$/;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;function checkMandatory() {
-  /* Hide any errors. */
-  var allErrors = document.getElementsByClassName(&#39;form-error&#39;);
-  for (var i = 0; i &amp;lt; allErrors.length; i++) {
-    allErrors[i].style.display = &#39;none&#39;;
-  }
-
-  /* Validate the form. */
-  var form = document.forms[&#39;WebToLeads2015827000000104023&#39;];
-  for (var i = 0; i &amp;lt; fields.length; i++) {
-    var fieldObj = form[fields[i]];
-    if (fieldObj) {
-      var failed = fieldObj.value.replace(/^\s+|\s+$/g, &#39;&#39;).length === 0;
-      if (!failed &amp;amp;&amp;amp; fields[i] === &#39;email&#39;) {
-        failed = !basicEmail.test(fieldObj.value);
-      }
-
-      if (failed) {
-        fieldObj.focus();
-        var name = fields[i];
-        if (name.endsWith(&#39;name&#39;)) {
-          name = &#39;name&#39;;
-        }
-        var err = document.getElementById(&#39;error-&#39; + name);
-        if (err) {
-          err.style.display = &#39;block&#39;;
-        }
-        return false;
-      }
-    }
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/script&gt;
-&lt;form&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/vemineorg&#34;&gt;&lt;img src=&#34;http://vemine.org/img/twitter.svg&#34; height=&#34;30px&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://faceboom.com/vemineorg&#34;&gt;&lt;img src=&#34;http://vemine.org/img/facebook.png&#34; height=&#34;30px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
